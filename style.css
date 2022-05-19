@@ -30,8 +30,20 @@
     background-color: rgb(31,31,31);
     border: none;
     color: #fff;
+    transition: background-color 300ms ease;
 }
 
 .botao:hover {
-    background-color: #000;
+    background-color: rgb(66, 66, 66);
+}
+
+#resultado {
+    background-color: #fff;
+    width: 214px;
+    height: 30px;
+    margin: 5px;
+    font-size: 25px;
+    color: #000;
+    text-align: right;
+    padding: 5px;
 }
