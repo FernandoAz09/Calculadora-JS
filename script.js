@@ -2,8 +2,10 @@
 
 function insert(num) {
     var numero = document.getElementById('resultado').innerHTML
-    document.getElementById('resultado').innerHTML = numero + num
+    var maisDeUmNum = numero + num
+    document.getElementById('resultado').innerHTML = maisDeUmNum
 }
+
 
 /* ---- Apaga tudo CA (clear all) ---- */
 
