@@ -10,7 +10,7 @@
 
 ## Sobre a Calculadora Simples - JS <a name="sobre"></a>
 
-<p align="left"> a Calculadora Simples - JS foi desenvolvida para aprender e treinar mais sobre os conceitos de Funções, variáveis e manipulação da DOM com o JavaScript </p>
+<p align="left"> A Calculadora Simples - JS foi desenvolvida para aprender e treinar mais sobre os conceitos de Funções, variáveis e manipulação da DOM com o JavaScript </p>
 
 <hr>
 
