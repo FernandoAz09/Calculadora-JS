@@ -12,6 +12,8 @@
 
 <p align="left"> A Calculadora Simples - JS foi desenvolvida para aprender e treinar mais sobre os conceitos de Funções, variáveis e manipulação da DOM com o JavaScript </p>
 
+<img href="/assets/calculadora.png">
+
 <hr>
 
 ## Tecnologias<a name="tecnologias"></a>
