@@ -1,6 +1,14 @@
 // iniciando refatoração da calculadora com funções de operadores
 
-somar() => {}
-subtrair () => {}
-dividir () => {}
-multiplicar () => {}
+function somar() {
+    
+}
+function subtrair () {
+    
+}
+function dividir () {
+    
+}
+function multiplicar () {
+    
+}
