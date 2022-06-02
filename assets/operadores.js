@@ -1,4 +1,3 @@
-// iniciando refatoração da calculadora com funções de operadores
-
+// arquivo criado para refatoração da calculadora
 
 
