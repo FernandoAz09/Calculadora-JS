@@ -1,15 +1,31 @@
 // arquivo criado para refatoração da calculadora
 
 // Função que receberá os operadores ao utilizar o teclado ou clicar nos botões 
-const operator = () => {}
+const operator = () => {
+
+}
 
 
-function somar() {}
+function somar() {
 
-function subtrair() {}
+}
 
-function multiplicar() {}
+function subtrair() {
 
-function dividir() {}
+}
 
+function multiplicar() {
 
+}
+
+function dividir() {
+
+}
+
+function addOperador() {
+
+}
+
+function atualizaDisplay() {
+
+}
