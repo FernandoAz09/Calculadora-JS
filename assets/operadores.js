@@ -10,4 +10,6 @@ function subtrair() {}
 
 function multiplicar() {}
 
+function dividir() {}
+
 
