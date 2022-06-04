@@ -2,3 +2,6 @@
 
 // Função que receberá os operadores ao utilizar o teclado ou clicar nos botões 
 const operator = () => {}
+
+
+function soma() {}
