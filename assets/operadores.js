@@ -4,4 +4,8 @@
 const operator = () => {}
 
 
-function soma() {}
+function somar() {}
+
+function subtrair() {}
+
+
