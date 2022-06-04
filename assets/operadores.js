@@ -8,4 +8,6 @@ function somar() {}
 
 function subtrair() {}
 
+function multiplicar() {}
+
 
