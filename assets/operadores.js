@@ -26,6 +26,7 @@ function addOperador() {
 
 }
 
+// Função responsável por atualizar o display quando receber o value1, o value2, o operador e o resultado
 function atualizaDisplay() {
 
 }
