@@ -12,7 +12,7 @@
 
 <p align="left"> A Calculadora Simples - JS foi desenvolvida para aprender e treinar mais sobre os conceitos de Funções, variáveis e manipulação da DOM com o JavaScript </p>
 
-<img src="/assets/calculadora.png">
+<img src="/assets/img/calculadora.png">
 
 <hr>
 
